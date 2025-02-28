@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "userId": 123,
+      "message": "Novo pedido realizado!",
+      "date": "2024-09-25T10:00:00Z",
+      "status": "success" 
+    },
+    {
+      "id": 2,
+      "userId": 124,
+      "message": "Seu pagamento está sendo processado.",
+      "date": "2024-09-24T09:30:00Z",
+      "status": "in_progress" 
+    },
+    {
+      "id": 3,
+      "userId": 123,
+      "message": "Erro ao processar o pagamento.",
+      "date": "2024-09-23T14:15:00Z",
+      "status": "failure"
+    },
+    {
+      "id": 4,
+      "userId": 125,
+      "message": "Falha de sistema detectada.",
+      "date": "2024-09-22T17:00:00Z",
+      "status": "system_error" 
+    },
+    {
+      "id": 5,
+      "userId": 123,
+      "message": "Sua conta foi atualizada com sucesso.",
+      "date": "2024-09-21T11:45:00Z",
+      "status": "success"
+    }
+  ]
+  
